@@ -1,7 +1,7 @@
 import { Args, Command, Flags } from '@oclif/core'
 
 export default class Add extends Command {
-  static description = 'describe the command here'
+  static description = 'Adds two numbers together. You can add decimal numbers using the -f tag.'
 
   static examples = [
     '<%= config.bin %> <%= command.id %>',

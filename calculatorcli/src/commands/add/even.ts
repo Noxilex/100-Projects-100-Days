@@ -2,7 +2,7 @@ import { Args, Command, Flags } from '@oclif/core'
 import Add from '../add'
 
 export default class AddEven extends Add {
-  static description = 'describe the command here'
+  static description = 'Only adds even numbers'
 
   static examples = [
     '<%= config.bin %> <%= command.id %>',

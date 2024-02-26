@@ -2,7 +2,7 @@ import { Args, Command, Flags } from '@oclif/core'
 import Add from '../add'
 
 export default class AddOdd extends Add {
-  static description = 'describe the command here'
+  static description = 'Only adds odd numbers'
 
   static examples = [
     '<%= config.bin %> <%= command.id %>',

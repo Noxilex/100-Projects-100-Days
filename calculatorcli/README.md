@@ -59,7 +59,7 @@ USAGE
 
 ## `calculatorcli add [FIRSTARG] [SECONDARG]`
 
-describe the command here
+Adds two numbers together. You can add decimal numbers using the -f tag.
 
 ```
 USAGE
@@ -69,7 +69,7 @@ FLAGS
   -f, --float
 
 DESCRIPTION
-  describe the command here
+  Adds two numbers together. You can add decimal numbers using the -f tag.
 
 EXAMPLES
   $ calculatorcli add
@@ -79,7 +79,7 @@ _See code: [src/commands/add.ts](https://github.com/Noxilex/100_Projects_100_Day
 
 ## `calculatorcli add even [FIRSTARG] [SECONDARG]`
 
-describe the command here
+Only adds even numbers
 
 ```
 USAGE
@@ -89,7 +89,7 @@ FLAGS
   -f, --float
 
 DESCRIPTION
-  describe the command here
+  Only adds even numbers
 
 EXAMPLES
   $ calculatorcli add even
@@ -99,7 +99,7 @@ _See code: [src/commands/add/even.ts](https://github.com/Noxilex/100_Projects_10
 
 ## `calculatorcli add odd [FIRSTARG] [SECONDARG]`
 
-describe the command here
+Only adds odd numbers
 
 ```
 USAGE
@@ -109,7 +109,7 @@ FLAGS
   -f, --float
 
 DESCRIPTION
-  describe the command here
+  Only adds odd numbers
 
 EXAMPLES
   $ calculatorcli add odd
