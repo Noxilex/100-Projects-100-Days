@@ -42,8 +42,9 @@ USAGE
 <!-- usagestop -->
 # Commands
 <!-- commands -->
-* [`calculatorcli hello PERSON`](#calculatorcli-hello-person)
-* [`calculatorcli hello world`](#calculatorcli-hello-world)
+* [`calculatorcli add [FIRSTARG] [SECONDARG]`](#calculatorcli-add-firstarg-secondarg)
+* [`calculatorcli add even [FIRSTARG] [SECONDARG]`](#calculatorcli-add-even-firstarg-secondarg)
+* [`calculatorcli add odd [FIRSTARG] [SECONDARG]`](#calculatorcli-add-odd-firstarg-secondarg)
 * [`calculatorcli help [COMMANDS]`](#calculatorcli-help-commands)
 * [`calculatorcli plugins`](#calculatorcli-plugins)
 * [`calculatorcli plugins:install PLUGIN...`](#calculatorcli-pluginsinstall-plugin)
@@ -56,47 +57,65 @@ USAGE
 * [`calculatorcli plugins:uninstall PLUGIN...`](#calculatorcli-pluginsuninstall-plugin-2)
 * [`calculatorcli plugins update`](#calculatorcli-plugins-update)
 
-## `calculatorcli hello PERSON`
+## `calculatorcli add [FIRSTARG] [SECONDARG]`
 
-Say hello
+describe the command here
 
 ```
 USAGE
-  $ calculatorcli hello PERSON -f <value>
-
-ARGUMENTS
-  PERSON  Person to say hello to
+  $ calculatorcli add [FIRSTARG] [SECONDARG] [-f]
 
 FLAGS
-  -f, --from=<value>  (required) Who is saying hello
+  -f, --float
 
 DESCRIPTION
-  Say hello
+  describe the command here
 
 EXAMPLES
-  $ oex hello friend --from oclif
-  hello friend from oclif! (./src/commands/hello/index.ts)
+  $ calculatorcli add
 ```
 
-_See code: [src/commands/hello/index.ts](https://github.com/Noxilex/100_Projects_100_Days/blob/v0.0.0/src/commands/hello/index.ts)_
+_See code: [src/commands/add.ts](https://github.com/Noxilex/100_Projects_100_Days/blob/v0.0.0/src/commands/add.ts)_
 
-## `calculatorcli hello world`
+## `calculatorcli add even [FIRSTARG] [SECONDARG]`
 
-Say hello world
+describe the command here
 
 ```
 USAGE
-  $ calculatorcli hello world
+  $ calculatorcli add even [FIRSTARG] [SECONDARG] [-f]
+
+FLAGS
+  -f, --float
 
 DESCRIPTION
-  Say hello world
+  describe the command here
 
 EXAMPLES
-  $ calculatorcli hello world
-  hello world! (./src/commands/hello/world.ts)
+  $ calculatorcli add even
 ```
 
-_See code: [src/commands/hello/world.ts](https://github.com/Noxilex/100_Projects_100_Days/blob/v0.0.0/src/commands/hello/world.ts)_
+_See code: [src/commands/add/even.ts](https://github.com/Noxilex/100_Projects_100_Days/blob/v0.0.0/src/commands/add/even.ts)_
+
+## `calculatorcli add odd [FIRSTARG] [SECONDARG]`
+
+describe the command here
+
+```
+USAGE
+  $ calculatorcli add odd [FIRSTARG] [SECONDARG] [-f]
+
+FLAGS
+  -f, --float
+
+DESCRIPTION
+  describe the command here
+
+EXAMPLES
+  $ calculatorcli add odd
+```
+
+_See code: [src/commands/add/odd.ts](https://github.com/Noxilex/100_Projects_100_Days/blob/v0.0.0/src/commands/add/odd.ts)_
 
 ## `calculatorcli help [COMMANDS]`
 

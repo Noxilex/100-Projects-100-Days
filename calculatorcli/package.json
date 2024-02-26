@@ -55,6 +55,8 @@
   },
   "repository": "Noxilex/100_Projects_100_Days",
   "scripts": {
+    "gbuild": "npm install -g ../calculatorcli",
+    "start": "node ./bin/run.js",
     "build": "shx rm -rf dist && tsc -b",
     "lint": "eslint . --ext .ts",
     "postpack": "shx rm -f oclif.manifest.json",
