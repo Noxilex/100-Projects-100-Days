@@ -23,12 +23,12 @@ export default class AddOdd extends Add {
     let first = parseInt(args.firstArg)
     let second = parseInt(args.secondArg)
     if (isNaN(first) || isNaN(second)) {
-      this.error(new Error(`One of the inputs is not a number`))
+      this.error(`One of the inputs is not a number`, { exit: 2 })
     }
     if (first % 2 == 1 || second % 2 == 1) {
       this.log(`${first} + ${second} = ${first + second}`)
     } else {
-      this.error(new Error(`One of the numbers is not odd`))
+      this.error(`One of the numbers is not odd`, { exit: 2 })
     }
   }
 }
