@@ -9,11 +9,14 @@
         <div class="splashscreen">
           <button @click="handleRequest">Request</button>
           <div class="search-area">
-            <select name="" id="" class="homeCountries" >
-              <option value="" v-for="(country, index) in homeCountries" :key="index">{{ country }}</option>
-            </select>
-            <select name="" id="" class="servingCountries" >
-              <option value="" v-for="(country, index) in servingCountries" :key="index">{{ country }}</option>
+            <label for="homeCountries">Home Countries</label>
+            <b-form-select v-model="homeCountries" :options="countries.map(e => {return {value: e.code, text: e.name }})" multiple :select-size="4"></b-form-select>
+            <label for="servingCountries">Serving Countries</label>            
+              <b-form-select v-model="servingCountries" :options="countries.map(e => {return {value: e.code, text: e.name }})" multiple :select-size="4"></b-form-select>
+            <label for="themes">Themes</label>
+            <select name="themes" id="themes" class="themes" >
+              <option value="" selected>None</option>
+              <option v-for="theme in themes" :key="theme.id" :value="theme.name">{{ theme.name }}</option>
             </select>
           </div>
           <div class="card-list">
@@ -41,6 +44,8 @@
   
   <script>
   const API_KEY = "64670cfb-3121-473e-8155-7b73fb37b74c"
+  import api from '@/services/api.service'
+  import csv from '@/assets/countries.csv'
   export default {
     data() {
       return {
@@ -48,8 +53,10 @@
         description: 'Utilize the <a href="https://www.globalgiving.org/" target="_blank">Global Giving</a> organizations API to provide your users with a list of global charities',
         organization: {},
         projects: [],
-        homeCountries: ["France", "Angleterre", "Allemagne"],
-        servingCountries: ["France", "Angleterre", "Allemagne"],
+        themes: [],
+        countries: [],
+        homeCountries: [],
+        servingCountries: [],
         nextProjectId: null
       };
     },
@@ -121,7 +128,9 @@
       }
       
     },
-    created(){
+    async created(){
+     this.themes = await api.getThemes()
+     this.countries = csv.sort((a,b) => {return a.name.localeCompare(b.name)})
     }
   };
   </script>
