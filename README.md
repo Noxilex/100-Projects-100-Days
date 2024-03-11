@@ -46,56 +46,69 @@ and update their progress here
 - [x] Bit Masks - [[Projet 36 - Using Bit Masks for Conditions]]
 - [x] Book Finder App - [[Projet 37 - Search for books by multiple criteria]]
 - [x] Calculator CLI - [[Projet 38 - Create a basic calculator CLI]]
-- [ ] Card Memory Game - [[Projet 39 - Memorize and match hidden images]]
+- [x] Card Memory Game - [[Projet 39 - Memorize and match hidden images]]
 - [ ] Charity Finder App - [[Projet 40 - Find a Global Charity to donate to]]
 - [ ] Chrome Theme Extension - [[Projet 41 - Build your own Chrome theme extension]]
-- [ ] Currency Converter - [[Projet 42 - Convert one currency to another]]
-- [ ] Drawing App - [[Projet 43 - Create digital artwork on the web]]
-- [ ] Emoji Translator App - [[Projet 44 - Translate sentences into Emoji]]
-- [ ] Flashcards App - [[Projet 45 - Review and test your knowledge through Flash Cards]]
-- [ ] Flip Art App - [[Projet 46 - Animate a set of images]]
-- [ ] Game Suggestion App - [[Projet 47 - Create polls to decide what games to play]]
-- [ ] GitHub Profiles - [[Projet 48 - A GitHub user search App]]
-- [ ] HighStriker Game - [[Projet 49 - Highstriker strongman carnival game]]
-- [ ] Image Scanner - [[Projet 50 - Image Scanner App]]
-- [ ] Markdown Previewer - [[Projet 51 - Preview text formatted in GitHub flavored markdown]]
-- [ ] Markdown Table Generator - [[Projet 52 - Convert a table into Markdown-formatted text]]
-- [ ] Math Editor - [[Projet 53 - A math editor for students to use]]
-- [ ] Meme Generator App - [[Projet 54 - Create custom memes]]
-- [ ] Name Generation using RNNs - [[Projet 55 - Generate names using names dataset]]
-- [ ] Password Generator - [[Projet 56 - Generate random passwords]]
-- [ ] Podcast Directory - [[Projet 57 - Directory of favorite podcasts]]
-- [ ] QR Code Badge Generator - [[Projet 58 - Encode badge info in a QR code]]
-- [ ] Regular Expression Helper - [[Projet 59 - Test Regular Expressions]]
-- [ ] Sales Receipts App - [[Projet 60 - Record Sales Receipts in a DB]]
-- [ ] Simple Online Store - [[Projet 61 - Simple Online Store]]
-- [ ] Sports Bracket Generator - [[Projet 62 - Generate a sports bracket diagram]]
-- [ ] String Art - [[Projet 63 - An animation of moving, colored strings]]
-- [ ] This or That Game - [[Projet 64 - This or That Game]]
-- [ ] Timezone Slackbot - [[Projet 65 - Display Team Timezones]]
-- [ ] To-Do App - [[Projet 66 - Manage personal to-do tasks]]
-- [ ] Typing Practice - [[Projet 67 - Typing Practice]]
-- [ ] Voting App - [[Projet 68 - Voting App]]
 
+I'm stopping the app-idea list, now I've gathered projects from the original 100 projects challenge, starting from project 42:
 
-### Tier-3: Advanced Projects
--- [ ] Battleship Bot - [[Projet 69 - Create a Discord bot that plays Battleship]]
-- [ ] Battleship Game Engine - [[Projet 70 - Create a callable engine to play the Battleship game]]
-- [ ] Boole Bots Game - [[Projet 71 - Battling Bots driven by Boolean algebra]]
-- [ ] Calendar - [[Projet 72 - Create your own Calendar]]
-- [ ] Calorie Counter - [[Projet 73 - Calorie Counter Nutrition App]]
-- [ ] Chat App - [[Projet 74 - Real-time chat interface]]
-- [ ] Contribution Tracker App - [[Projet 75 - Track funds donated to charity]]
-- [ ] Elevator - [[Projet 76 - Elevator simulator]]
-- [ ] Fast Food Simulator - [[Projet 77 - Fast Food Restaurant Simulator]]
-- [ ] Instagram Clone - [[Projet 78 - A clone of Facebook's Instagram app]]
-- [ ] GitHub Timeline - [[Projet 79 - Generate a timeline of a user's GitHub Repos]]
-- [ ] Kudos Slackbot - [[Projet 80 - Give recognition to a deserving peer]]
-- [ ] Movie App - [[Projet 81 - Browse, Find Ratings, Check Actors and Find your next movie to watch]]
-- [ ] MyPodcast Library - [[Projet 82 - Create a library of favorite podcasts]]
-- [ ] NASA Exoplanet Query - [[Projet 83 - Query NASA's Exoplanet Archive]]
-- [ ] Shell Game - [[Projet 84 - Animated shell game]]
-- [ ] Shuffle Deck - [[Projet 85 - Evaluate different algorithms for shuffling a card deck]]
-- [ ] Slack Archiver - [[Projet 86 - Archive Slack Messages]]
-- [ ] Spell-It App - [[Projet 87 - A twist on the classic]]
-
+| 042 | [Verify Account UI](https://codepen.io/FlorinPop17/full/poorPYb)            | https://codepen.io/Noxilex/full/zYXGBGG |
+| --- | --------------------------------------------------------------------------- | --------------------------------------- |
+| 043 | [Rotated Nav Animation](https://codepen.io/FlorinPop17/full/QWWqEqE)        | https://codepen.io/Noxilex/full/OJGVoPG |
+| 044 | [Particles](https://codepen.io/FlorinPop17/full/wvvrbmY)                    | https://codepen.io/Noxilex/full/YzMyZza |
+| 045 | [Loading Animation](https://codepen.io/FlorinPop17/full/VwwrByB)            | https://codepen.io/Noxilex/full/MWRKWJL |
+| 046 | [Image Password Strength](https://codepen.io/FlorinPop17/full/mddqNwd)      | https://codepen.io/Noxilex/full/ExJPorw |
+| 047 | [Expanding Cards](https://codepen.io/FlorinPop17/full/QWWarqd)              | https://codepen.io/Noxilex/full/KKYVOBw |
+| 048 | [Theme Toggler](https://codepen.io/FlorinPop17/full/XWWZYYG)                | https://codepen.io/Noxilex/full/MWRyJvq |
+| 049 | [Content Placeholder](https://codepen.io/FlorinPop17/full/OJJzddQ)          | TODO: Change project (idk what it does) |
+| 050 | [Infinite Scroll](https://codepen.io/FlorinPop17/full/zYYWwRy)              | https://codepen.io/Noxilex/full/eYoZrmq |
+| 051 | [Side Menu Animation](https://codepen.io/FlorinPop17/full/LYYdMXr)          | -                                       |
+| 052 | [First YouTube Video](https://codepen.io/FlorinPop17/full/JjjvzJP)          | -                                       |
+| 053 | [User Card Design](https://codepen.io/FlorinPop17/full/dyyKpwd)             | -                                       |
+| 054 | [Rotation Slideshow](https://codepen.io/FlorinPop17/full/VwwdNvP)           | -                                       |
+| 055 | [Message Cards Design](https://codepen.io/FlorinPop17/full/zYYLxOg)         | -                                       |
+| 056 | [Digital Block Clock](https://codepen.io/FlorinPop17/full/jOOpQYG)          | -                                       |
+| 057 | [Become a Millionaire](https://codepen.io/FlorinPop17/full/qBBMWey)         | -                                       |
+| 058 | [Car Avoidance Game](https://codepen.io/FlorinPop17/full/WNNgqqO)           | -                                       |
+| 059 | [Direction Aware Hover Effect](https://codepen.io/FlorinPop17/full/WNNaPwa) | -                                       |
+| 060 | [Mobile Tab Navigation](https://codepen.io/FlorinPop17/full/pooQgYO)        | -                                       |
+| 061 | [Live User Filter](https://codepen.io/FlorinPop17/full/pooQmjO)             | -                                       |
+| 062 | [Blobby](https://codepen.io/FlorinPop17/full/PooXqaQ)                       | -                                       |
+| 063 | [Blog Posts Design](https://codepen.io/FlorinPop17/full/mddavNq)            | -                                       |
+| 064 | [Hidden Search](https://codepen.io/FlorinPop17/full/xxxMJbw)                | -                                       |
+| 065 | [Flomoji 🤩](https://codepen.io/FlorinPop17/full/bGGZWjr)                   | -                                       |
+| 066 | [Moving Hamburger Animation](https://codepen.io/FlorinPop17/full/wvvZvWp)   | -                                       |
+| 067 | [Landing Page Header](https://codepen.io/FlorinPop17/full/gOOyaYg)          | -                                       |
+| 068 | [Newsletter Design](https://codepen.io/FlorinPop17/full/XWWQLxv)            | -                                       |
+| 069 | [Dad Jokes](https://codepen.io/FlorinPop17/full/dyyEvVV)                    | -                                       |
+| 070 | [Kinetic Loader](https://codepen.io/FlorinPop17/full/yLLWrKB)               | -                                       |
+| 071 | [Donate Design](https://codepen.io/FlorinPop17/full/bGGPKZV)                | -                                       |
+| 072 | [Instagram Image Feed](https://codepen.io/FlorinPop17/full/zYYgoEZ)         | -                                       |
+| 073 | [Form Validation](https://codepen.io/FlorinPop17/full/OJJKQeK)              | -                                       |
+| 074 | [Background Changer](https://codepen.io/FlorinPop17/full/MWYgYNM)           | -                                       |
+| 075 | [Auto Text](https://codepen.io/FlorinPop17/full/jOENxEL)                    | -                                       |
+| 076 | [Clip-Path Animation](https://codepen.io/FlorinPop17/full/VwYZNyL)          | -                                       |
+| 077 | [Social Links](https://codepen.io/FlorinPop17/full/Powoaoj)                 | -                                       |
+| 078 | [Color Matching Game](https://codepen.io/FlorinPop17/full/zYxxGzO)          | -                                       |
+| 079 | [Background Slider](https://codepen.io/FlorinPop17/full/GRggPob)            | -                                       |
+| 080 | [Steps](https://codepen.io/FlorinPop17/full/eYmNQgY)                        | -                                       |
+| 081 | [Drink Water](https://codepen.io/FlorinPop17/full/ExajrQJ)                  | -                                       |
+| 082 | [Random Picker Visualizer](https://codepen.io/FlorinPop17/full/zYxvJmP)     | -                                       |
+| 083 | [YouTube Video Suggestion UI](https://codepen.io/FlorinPop17/full/mdyeggY)  | -                                       |
+| 084 | [Sparkles](https://codepen.io/FlorinPop17/full/xxbZVYm)                     | -                                       |
+| 085 | [Breadcrumbs Design](https://codepen.io/FlorinPop17/full/eYmZvaB)           | -                                       |
+| 086 | [Traffic Lights](https://codepen.io/FlorinPop17/full/ExayYWw)               | -                                       |
+| 087 | [Invoice Design](https://codepen.io/FlorinPop17/full/ExaypRr)               | -                                       |
+| 088 | [Blurry Loading](https://codepen.io/FlorinPop17/full/mdyEggx)               | -                                       |
+| 089 | [Rain Drops](https://codepen.io/FlorinPop17/full/yLyaPJb)                   | -                                       |
+| 090 | [Tooltip](https://codepen.io/FlorinPop17/full/dyPprax)                      | -                                       |
+| 091 | [Live Visit Count](https://codepen.io/FlorinPop17/full/BayQZZy)             | -                                       |
+| 092 | [CSS Pulse Effect](https://codepen.io/FlorinPop17/full/NWPbJmb)             | -                                       |
+| 093 | [Incrementing Counter](https://codepen.io/FlorinPop17/full/BaypGjb)         | -                                       |
+| 094 | [Course Card UI](https://codepen.io/FlorinPop17/full/dyPvNKK)               | -                                       |
+| 095 | [404 Sh*t Page](https://codepen.io/FlorinPop17/full/OJPpQLp)                | -                                       |
+| 096 | [Waves](https://codepen.io/FlorinPop17/full/WNbjQWN)                        | -                                       |
+| 097 | [Hotel Reservation Design](https://codepen.io/FlorinPop17/full/eYmWRdm)     | -                                       |
+| 098 | [FAQ](https://codepen.io/FlorinPop17/full/xxbdmYz)                          | -                                       |
+| 099 | [Cheap, Good, Fast](https://codepen.io/FlorinPop17/full/QWwgyXd)            | -                                       |
+| 100 | [All Projects](https://codepen.io/FlorinPop17/full/VwYWMOa)                 |                                         |
