@@ -1,5 +1,7 @@
 Inspiration comes from that website: https://github.com/florinpop17/app-ideas 
 He also has a codepen where he did the same challenge with different projects. 
+# [[List of projects]]
+
 
 # Progression
 
@@ -60,14 +62,14 @@ I'm stopping the app-idea list, now I've gathered projects from the original 100
 | 046 | [Image Password Strength](https://codepen.io/FlorinPop17/full/mddqNwd)      | https://codepen.io/Noxilex/full/ExJPorw |
 | 047 | [Expanding Cards](https://codepen.io/FlorinPop17/full/QWWarqd)              | https://codepen.io/Noxilex/full/KKYVOBw |
 | 048 | [Theme Toggler](https://codepen.io/FlorinPop17/full/XWWZYYG)                | https://codepen.io/Noxilex/full/MWRyJvq |
-| 049 | [Content Placeholder](https://codepen.io/FlorinPop17/full/OJJzddQ)          | TODO: Change project (idk what it does) |
+| 049 | [Content Placeholder](https://codepen.io/FlorinPop17/full/OJJzddQ)          | https://codepen.io/Noxilex/full/qBwazpQ |
 | 050 | [Infinite Scroll](https://codepen.io/FlorinPop17/full/zYYWwRy)              | https://codepen.io/Noxilex/full/eYoZrmq |
-| 051 | [Side Menu Animation](https://codepen.io/FlorinPop17/full/LYYdMXr)          | -                                       |
-| 052 | [First YouTube Video](https://codepen.io/FlorinPop17/full/JjjvzJP)          | -                                       |
-| 053 | [User Card Design](https://codepen.io/FlorinPop17/full/dyyKpwd)             | -                                       |
-| 054 | [Rotation Slideshow](https://codepen.io/FlorinPop17/full/VwwdNvP)           | -                                       |
-| 055 | [Message Cards Design](https://codepen.io/FlorinPop17/full/zYYLxOg)         | -                                       |
-| 056 | [Digital Block Clock](https://codepen.io/FlorinPop17/full/jOOpQYG)          | -                                       |
+| 051 | [Side Menu Animation](https://codepen.io/FlorinPop17/full/LYYdMXr)          | https://codepen.io/Noxilex/full/mdgEepP |
+| 052 | [First YouTube Video](https://codepen.io/FlorinPop17/full/JjjvzJP)          | Will do later                           |
+| 053 | [User Card Design](https://codepen.io/FlorinPop17/full/dyyKpwd)             | Will do later                           |
+| 054 | [Rotation Slideshow](https://codepen.io/FlorinPop17/full/VwwdNvP)           | https://codepen.io/Noxilex/full/RwORYZg |
+| 055 | [Message Cards Design](https://codepen.io/FlorinPop17/full/zYYLxOg)         | Will do later                           |
+| 056 | [Digital Block Clock](https://codepen.io/FlorinPop17/full/jOOpQYG)          | https://codepen.io/Noxilex/full/RwOGKQw |
 | 057 | [Become a Millionaire](https://codepen.io/FlorinPop17/full/qBBMWey)         | -                                       |
 | 058 | [Car Avoidance Game](https://codepen.io/FlorinPop17/full/WNNgqqO)           | -                                       |
 | 059 | [Direction Aware Hover Effect](https://codepen.io/FlorinPop17/full/WNNaPwa) | -                                       |
